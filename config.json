@@ -1,0 +1,7 @@
+{
+  "targetAddress": "127.0.0.1",
+  "targetPort": 1337,
+  "saveLogs": true,
+  "customKeyPath": "chave_privada.key",
+  "customCertPath": "certificado.crt"
+}
